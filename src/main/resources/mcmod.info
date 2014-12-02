@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BellCraft",
+  "name": "Bell Craft",
+  "description": "Bell Craft mod package.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://BellLife.tistory.com/",
+  "updateUrl": "",
+  "authorList": ["Bell"],
+  "credits": "Made by Bell",
+  "logoFile": "Bell.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

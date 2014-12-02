@@ -1,0 +1,8 @@
+itemGroup.tabBellCraft=Bell Craft
+BellCraft.itemRandomBoxTier1.name=Random Box Tier 1
+BellCraft.itemRandomBoxTier2.name=Random Box Tier 2
+BellCraft.itemRandomBoxTier3.name=Random Box Tier 3
+BellCraft.itemRandomBoxTier4.name=Random Box Tier 4
+BellCraft.ingotRandom.name=Random Ingot
+BellCraft.oreRandom.name=Random Ore
+Text.WelcomeBellCraft=Welcome to Bell Craft!
