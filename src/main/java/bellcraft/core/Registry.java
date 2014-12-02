@@ -12,11 +12,18 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.IRecipe;
 import net.minecraftforge.common.MinecraftForge;
 import cpw.mods.fml.common.FMLCommonHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class Registry {
 	
-	public static void register()
+	public static void register(FMLPreInitializationEvent event)
+	{
+		Config.Initialize(event); // 설정값 로드
+	}
+	
+	public static void register(FMLInitializationEvent event)
 	{
 		Events.registerEvents(); // 이벤트 등록
 		Items.registerItems(); // 아이템 등록

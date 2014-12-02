@@ -1,6 +1,7 @@
 package bellcraft.items;
 
 import bellcraft.core.BellCraft;
+import bellcraft.core.Config;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.Item;
 import net.minecraft.util.ChatComponentStyle;
@@ -16,11 +17,17 @@ public class Items {
 	
 	public static void registerItems()
 	{
-		GameRegistry.registerItem(Items.RandomBoxTier1, "RandomBoxTier1");
-		GameRegistry.registerItem(Items.RandomBoxTier2, "RandomBoxTier2");
-		GameRegistry.registerItem(Items.RandomBoxTier3, "RandomBoxTier3");
-		GameRegistry.registerItem(Items.RandomBoxTier4, "RandomBoxTier4");
-		GameRegistry.registerItem(Items.ingotRandom, "ingotRandom");
+		if (Config.enableRandomBox)
+		{
+			GameRegistry.registerItem(Items.RandomBoxTier1, "RandomBoxTier1");
+			GameRegistry.registerItem(Items.RandomBoxTier2, "RandomBoxTier2");
+			GameRegistry.registerItem(Items.RandomBoxTier3, "RandomBoxTier3");
+			GameRegistry.registerItem(Items.RandomBoxTier4, "RandomBoxTier4");
+		}
+		if (Config.enableRandomIngot)
+		{
+			GameRegistry.registerItem(Items.ingotRandom, "ingotRandom");
+		}
 		
 		BellCraft.AddLog("Item register complete.");
 	}

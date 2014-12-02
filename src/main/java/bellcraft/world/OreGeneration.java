@@ -9,11 +9,15 @@ import cpw.mods.fml.common.IWorldGenerator;
 import cpw.mods.fml.common.registry.GameRegistry;
 import bellcraft.blocks.Blocks;
 import bellcraft.core.BellCraft;
+import bellcraft.core.Config;
 
 public class OreGeneration implements IWorldGenerator {
 	
 	public static void registerOre() {
-		GameRegistry.registerWorldGenerator(new OreGeneration(), 1); // 광물 ?��?��?��?��?�� ?��벤트 ?���?
+		if (Config.enableRandomOreGen)
+		{
+			GameRegistry.registerWorldGenerator(new OreGeneration(), 1); // 광물 ?��?��?��?��?�� ?��벤트 ?���?
+		}
 		
 		BellCraft.AddLog("Ore register complete.");
 	}

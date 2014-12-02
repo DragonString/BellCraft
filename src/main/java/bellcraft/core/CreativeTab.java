@@ -1,8 +1,8 @@
 package bellcraft.core;
 
 import bellcraft.items.Items;
+import bellcraft.blocks.Blocks;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 
 public class CreativeTab extends CreativeTabs {
@@ -14,6 +14,11 @@ public class CreativeTab extends CreativeTabs {
 	@Override
 	public Item getTabIconItem()
 	{
-		return Item.getItemFromBlock(Blocks.quartz_block); // 크리에이티브탭 아이콘 설정
+		if (Config.enableRandomOre)
+		{
+			return Item.getItemFromBlock(Blocks.oreRandom); // 크리에이티브탭 아이콘 설정
+		} else {
+			return Item.getItemFromBlock(net.minecraft.init.Blocks.quartz_block);
+		}
 	}
 }
