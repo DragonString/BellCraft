@@ -18,8 +18,312 @@
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
-:sourceMainJava UP-TO-DATE
-:compileJava UP-TO-DATE
+:sourceMainJava
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                              ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                      ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:17: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?´?–¸?Š¸?—?„œë§? ?‘?™
+	                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:23: error: unmappable character for encoding MS949
+		super(Material.rock); // ?Œ ?¬ì§ˆì˜ ë¸”ëŸ­?œ¼ë¡? ?„¤? •
+		                                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:24: error: unmappable character for encoding MS949
+		customUnlocalizedName = arg1; // ë¸”ëŸ­ ?´ë¦? ë°›ì•„?˜´
+		                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:24: error: unmappable character for encoding MS949
+		customUnlocalizedName = arg1; // ë¸”ëŸ­ ?´ë¦? ë°›ì•„?˜´
+		                                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:24: error: unmappable character for encoding MS949
+		customUnlocalizedName = arg1; // ë¸”ëŸ­ ?´ë¦? ë°›ì•„?˜´
+		                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:25: error: unmappable character for encoding MS949
+		setHardness(2.0F); // ?•„?´?…œ ê°•ë„
+		                      ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:25: error: unmappable character for encoding MS949
+		setHardness(2.0F); // ?•„?´?…œ ê°•ë„
+		                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:25: error: unmappable character for encoding MS949
+		setHardness(2.0F); // ?•„?´?…œ ê°•ë„
+		                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:26: error: unmappable character for encoding MS949
+		setLightLevel(0.95F); // ë¸”ëŸ­ ë°ê¸° (0 ~ 1.0 / 1.0?¼?‹œ ?š©?•”ë°ê¸°)
+		                                               ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:26: error: unmappable character for encoding MS949
+		setLightLevel(0.95F); // ë¸”ëŸ­ ë°ê¸° (0 ~ 1.0 / 1.0?¼?‹œ ?š©?•”ë°ê¸°)
+		                                                 ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:26: error: unmappable character for encoding MS949
+		setLightLevel(0.95F); // ë¸”ëŸ­ ë°ê¸° (0 ~ 1.0 / 1.0?¼?‹œ ?š©?•”ë°ê¸°)
+		                                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:26: error: unmappable character for encoding MS949
+		setLightLevel(0.95F); // ë¸”ëŸ­ ë°ê¸° (0 ~ 1.0 / 1.0?¼?‹œ ?š©?•”ë°ê¸°)
+		                                                      ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:27: error: unmappable character for encoding MS949
+		setLightOpacity(0); // ë¸”ëŸ­ ?ˆ¬ëª…ë„ (?‚®?œ¼ë©? ë¶ˆíˆ¬ëª?)
+		                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:27: error: unmappable character for encoding MS949
+		setLightOpacity(0); // ë¸”ëŸ­ ?ˆ¬ëª…ë„ (?‚®?œ¼ë©? ë¶ˆíˆ¬ëª?)
+		                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:27: error: unmappable character for encoding MS949
+		setLightOpacity(0); // ë¸”ëŸ­ ?ˆ¬ëª…ë„ (?‚®?œ¼ë©? ë¶ˆíˆ¬ëª?)
+		                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:27: error: unmappable character for encoding MS949
+		setLightOpacity(0); // ë¸”ëŸ­ ?ˆ¬ëª…ë„ (?‚®?œ¼ë©? ë¶ˆíˆ¬ëª?)
+		                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:27: error: unmappable character for encoding MS949
+		setLightOpacity(0); // ë¸”ëŸ­ ?ˆ¬ëª…ë„ (?‚®?œ¼ë©? ë¶ˆíˆ¬ëª?)
+		                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:28: error: unmappable character for encoding MS949
+		setStepSound(Block.soundTypeStone); // ?„¤ì¹? ë°? ê·? ?œ„ë¥? ?‹¬? ¸?„?•Œ ?‚˜?Š”?†Œë¦? ?„¤? •
+		                                                                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:29: error: unmappable character for encoding MS949
+		setBlockName("ore" + customUnlocalizedName); // ë¸”ëŸ­ ?´ë¦? ?„¤? •
+		                                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:29: error: unmappable character for encoding MS949
+		setBlockName("ore" + customUnlocalizedName); // ë¸”ëŸ­ ?´ë¦? ?„¤? •
+		                                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:29: error: unmappable character for encoding MS949
+		setBlockName("ore" + customUnlocalizedName); // ë¸”ëŸ­ ?´ë¦? ?„¤? •
+		                                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:29: error: unmappable character for encoding MS949
+		setBlockName("ore" + customUnlocalizedName); // ë¸”ëŸ­ ?´ë¦? ?„¤? •
+		                                                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:30: error: unmappable character for encoding MS949
+		setHarvestLevel("pickaxe", 1); // ì²? ê³¡ê´­?´ ?´?ƒ?“±ê¸‰ìœ¼ë¡œë§Œ ìºì§
+		                                   ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:30: error: unmappable character for encoding MS949
+		setHarvestLevel("pickaxe", 1); // ì²? ê³¡ê´­?´ ?´?ƒ?“±ê¸‰ìœ¼ë¡œë§Œ ìºì§
+		                                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:30: error: unmappable character for encoding MS949
+		setHarvestLevel("pickaxe", 1); // ì²? ê³¡ê´­?´ ?´?ƒ?“±ê¸‰ìœ¼ë¡œë§Œ ìºì§
+		                                           ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:30: error: unmappable character for encoding MS949
+		setHarvestLevel("pickaxe", 1); // ì²? ê³¡ê´­?´ ?´?ƒ?“±ê¸‰ìœ¼ë¡œë§Œ ìºì§
+		                                             ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:30: error: unmappable character for encoding MS949
+		setHarvestLevel("pickaxe", 1); // ì²? ê³¡ê´­?´ ?´?ƒ?“±ê¸‰ìœ¼ë¡œë§Œ ìºì§
+		                                               ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:31: error: unmappable character for encoding MS949
+		setCreativeTab(BellCraft.tab); // ?¬ë¦¬ì—?´?‹°ë¸Œíƒ­ ì§?? •
+		                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:31: error: unmappable character for encoding MS949
+		setCreativeTab(BellCraft.tab); // ?¬ë¦¬ì—?´?‹°ë¸Œíƒ­ ì§?? •
+		                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:31: error: unmappable character for encoding MS949
+		setCreativeTab(BellCraft.tab); // ?¬ë¦¬ì—?´?‹°ë¸Œíƒ­ ì§?? •
+		                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:31: error: unmappable character for encoding MS949
+		setCreativeTab(BellCraft.tab); // ?¬ë¦¬ì—?´?‹°ë¸Œíƒ­ ì§?? •
+		                                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:31: error: unmappable character for encoding MS949
+		setCreativeTab(BellCraft.tab); // ?¬ë¦¬ì—?´?‹°ë¸Œíƒ­ ì§?? •
+		                                                 ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                              ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                 ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                   ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                               ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                                    ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                                      ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:37: error: unmappable character for encoding MS949
+		return BellCraft.MODID + ".ore" + customUnlocalizedName; // ?‹¤?“¤ ?•„?‹œ?Š” ?•„?´?…œ ?´ë¦? ?„¤? • ë©”ì†Œ?“œ
+		                                                                                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                               ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                                                 ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:43: error: unmappable character for encoding MS949
+		icon = register.registerIcon(BellCraft.MODID + ":ore" + customUnlocalizedName); // ë¸”ëŸ­ ?•„?´ì½? ì§?? • ore[?´ë¦?].png ?˜•?‹
+		                                                                                                                   ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                            ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                              ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                                   ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                                       ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:47: error: unmappable character for encoding MS949
+	@SideOnly(Side.CLIENT) // ?´?¼?—?„œë§? ?‘?™?•¨
+	                                         ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                   ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                     ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                        ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                              ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                                ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\blocks\BlockOre.java:55: error: unmappable character for encoding MS949
+		return Items.ingotRandom; // ê´‘ì„ ë¶??ˆ ?‹œ ?¸ê³³ìœ¼ë¡? ?‚˜?˜¤ê²Œí•¨
+		                                                  ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\core\BellCraft.java:18: error: unmappable character for encoding MS949
+	public void Initialize(FMLInitializationEvent event) //ì´ˆê¸°?™”
+	                                                          ^
+M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\core\BellCraft.java:34: error: unmappable character for encoding MS949
+		Registry.register(event); // ? ˆì§??Š¤?„°
+		                             ^
+Note: M:\Bell\Programming\JAVA\Projects\git\BellCraft\build\sources\java\bellcraft\items\ItemIngots.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning
+
 :processResources
 :classes
 :jar
@@ -34,4 +338,4 @@
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 38.417 secs
+Total time: 13.891 secs

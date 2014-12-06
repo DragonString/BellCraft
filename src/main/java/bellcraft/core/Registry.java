@@ -1,20 +1,12 @@
 package bellcraft.core;
 
 import bellcraft.blocks.Blocks;
-import bellcraft.items.ItemIngots;
-import bellcraft.items.ItemRandomBox;
 import bellcraft.items.Items;
 import bellcraft.recipes.FurnaceRecipe;
 import bellcraft.recipes.ItemRecipe;
 import bellcraft.world.OreGeneration;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.crafting.IRecipe;
-import net.minecraftforge.common.MinecraftForge;
-import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import cpw.mods.fml.common.registry.GameRegistry;
 
 public class Registry {
 	

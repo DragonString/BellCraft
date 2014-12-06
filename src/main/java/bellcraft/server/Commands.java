@@ -9,8 +9,10 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ChatComponentTranslation;
 
 public class Commands implements ICommand { // ICommand 구현
+	@SuppressWarnings("rawtypes")
 	private List aliases; // 명령어를 저장할 리스트 선언
 	
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public Commands()
 	{
 		this.aliases = new ArrayList(); // 명령어 배열 인스턴스 생성
@@ -36,8 +38,9 @@ public class Commands implements ICommand { // ICommand 구현
 		return "bc <Text>";
 	}
 	
+	@SuppressWarnings("unchecked")
 	@Override
-	public List getCommandAliases() // 명령어 리스트를 가져옴
+	public List<String> getCommandAliases() // 명령어 리스트를 가져옴
 	{
 		return this.aliases;
 	}
@@ -63,6 +66,7 @@ public class Commands implements ICommand { // ICommand 구현
 		return true;
 	}
 	
+	@SuppressWarnings("rawtypes")
 	@Override
 	public List addTabCompletionOptions(ICommandSender p_71516_1_, String[] p_71516_2_)
 	{

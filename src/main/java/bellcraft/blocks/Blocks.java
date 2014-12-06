@@ -2,7 +2,6 @@ package bellcraft.blocks;
 
 import bellcraft.core.BellCraft;
 import bellcraft.core.Config;
-import bellcraft.items.Items;
 import net.minecraft.block.Block;
 import cpw.mods.fml.common.registry.GameRegistry;
 

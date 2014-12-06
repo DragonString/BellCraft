@@ -18,22 +18,22 @@
 		<link>
 			<name>common</name>
 			<type>2</type>
-			<location>M:/Bell/Programming/JAVA/Projects/BellCraft/common</location>
+			<location>M:/Bell/Programming/JAVA/Projects/git/BellCraft/common</location>
 		</link>
 		<link>
 			<name>jars</name>
 			<type>2</type>
-			<location>M:/Bell/Programming/JAVA/Projects/BellCraft/jars</location>
+			<location>M:/Bell/Programming/JAVA/Projects/git/BellCraft/jars</location>
 		</link>
 		<link>
 			<name>lib</name>
 			<type>2</type>
-			<location>M:/Bell/Programming/JAVA/Projects/BellCraft/lib</location>
+			<location>M:/Bell/Programming/JAVA/Projects/git/BellCraft/lib</location>
 		</link>
 		<link>
 			<name>src</name>
 			<type>2</type>
-			<location>M:/Bell/Programming/JAVA/Projects/BellCraft/src</location>
+			<location>M:/Bell/Programming/JAVA/Projects/git/BellCraft/src</location>
 		</link>
 	</linkedResources>
 </projectDescription>

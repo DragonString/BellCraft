@@ -1,6 +1,5 @@
 package bellcraft.core;
 
-import bellcraft.items.Items;
 import bellcraft.blocks.Blocks;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

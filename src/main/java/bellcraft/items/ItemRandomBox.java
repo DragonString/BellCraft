@@ -5,9 +5,7 @@ import java.util.Random;
 
 import bellcraft.core.BellCraft;
 import net.minecraft.client.renderer.texture.IIconRegister;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.entity.player.InventoryPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.EnumChatFormatting;
@@ -44,6 +42,7 @@ public class ItemRandomBox extends Item {
 		this.itemIcon = register.registerIcon(BellCraft.MODID + ":Item" + customUnlocalizedName); //아이템의 이미지 경로지정
 	}
 	
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	@Override
 	public void addInformation(ItemStack itemStack, EntityPlayer player, List list, boolean par4)
 	{

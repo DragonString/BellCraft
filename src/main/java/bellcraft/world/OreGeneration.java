@@ -16,7 +16,7 @@ public class OreGeneration implements IWorldGenerator {
 	public static void registerOre() {
 		if (Config.enableRandomOreGen)
 		{
-			GameRegistry.registerWorldGenerator(new OreGeneration(), 1); // 광물 ?��?��?��?��?�� ?��벤트 ?���?
+			GameRegistry.registerWorldGenerator(new OreGeneration(), 1); // 광물 생성 메서드
 		}
 		
 		BellCraft.AddLog("Ore register complete.");
@@ -25,27 +25,27 @@ public class OreGeneration implements IWorldGenerator {
 	@Override
 	public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator, IChunkProvider chunkProvider)
 	{
-		switch(world.provider.dimensionId) // ?��멘션 ID 받아?��
+		switch(world.provider.dimensionId) // 디멘션 ID 받아오기
 		{
-		case -1: // �??��
+		case -1: // 지옥
 			break;
-		case 0: // ?��버월?��
-			generateOverworld(world, random, chunkX * 16, chunkZ * 16); // 광물 ?��?��
+		case 0: // 오버월드
+			generateOverworld(world, random, chunkX * 16, chunkZ * 16); // 광물 생성
 			break;
-		case 1: // ?��?��?��?���?
+		case 1: // 엔더드래곤
 			break;
 		}
 	}
 	
 	private void generateOverworld(World world, Random random, int x, int z)
 	{
-		for (int i = 0; i < 2; i++) // i 최�?값�? 광물 ?�� ?���?
+		for (int i = 0; i < 2; i++) // i 최댓값 = 광물 희기성
 		{
-			int chunkX = x + random.nextInt(16); // 광물?��?�� ?��같�? 광물?�� 붙어?��?�� ?���? x�?
-			int chunkZ = z + random.nextInt(16); // ?��?? 마찬�?�? z�?
-			int chunkY = random.nextInt(150); // 광물 ?�� ?��?�� (Y 150 미만 무작?�� ?��?��?��)
+			int chunkX = x + random.nextInt(16);
+			int chunkY = random.nextInt(150);
+			int chunkZ = z + random.nextInt(16);			
 			
-			new WorldGenMinable(Blocks.oreRandom, 50).generate(world, random, chunkX, chunkY, chunkZ);
+			new WorldGenMinable(Blocks.oreRandom, 3).generate(world, random, chunkX, chunkY, chunkZ);
 		}
 	}
 }
