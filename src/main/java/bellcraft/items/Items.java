@@ -11,11 +11,9 @@ public class Items {
 	public static Item RandomBoxTier3 = new ItemRandomBox("RandomBoxTier3", "You can get a Tier 3 items.");
 	public static Item RandomBoxTier4 = new ItemRandomBox("RandomBoxTier4", "You can get a Tier 4 items.");
 	
-	public static Item ingotRandom = new ItemIngot("Random", "You can get a Random Box.");
-	
-	public static Item dustRandom = new ItemDust("Random", "This random dust.");
-	
-	public static Item nuggetRandom = new ItemDust("Random", "This random nugget.");
+	public static Item ingotRandom = new ItemSynthesis("Random", "You can get a Random Box.", "ingot", true);
+	public static Item dustRandom = new ItemSynthesis("Random", "This random dust.", "dust", true);
+	public static Item nuggetRandom = new ItemSynthesis("Random", "This random nugget.", "nugget", true);
 	
 	public static void registerItems()
 	{
