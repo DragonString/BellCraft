@@ -16,16 +16,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>common</name>
-			<type>2</type>
-			<locationURI>PROJECT_LOC/common</locationURI>
-		</link>
-		<link>
-			<name>jars</name>
-			<type>2</type>
-			<locationURI>PROJECT_LOC/jars</locationURI>
-		</link>
-		<link>
 			<name>lib</name>
 			<type>2</type>
 			<locationURI>PROJECT_LOC/lib</locationURI>
