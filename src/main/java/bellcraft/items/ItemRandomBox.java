@@ -81,10 +81,11 @@ public class ItemRandomBox extends Item {
 
 	private ItemStack randomItem(Item item)
 	{
+		
 		ItemStack[] itemlist = {new ItemStack(net.minecraft.init.Items.arrow, 1)};
 		Random r = new Random();
 		BellCraft.AddLog("니미럴 시벌탱 : " + itemlist.length);
-		
+		//return new ItemStack((Item)appeng.api.definitions.Items.itemCell64k);
 		if (item == Items.RandomBoxTier1)
 		{
 			BellCraft.AddLog("시벌것 배열 추가한다잉?");

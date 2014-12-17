@@ -28,6 +28,7 @@ minecraft {
 
 
 dependencies {
+	compile "appeng:appliedenergistics2:rv1-stable-1:dev"
     // you may put jars on which you depend on in ./libs
     // or you may define them like so..
     //compile "some.group:artifact:version:classifier"

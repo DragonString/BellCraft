@@ -48,6 +48,11 @@ public class ItemSynthesis extends Item {
 		this(itemname, itemdata, itemcategory, 64, false, BellCraft.tab);
 	}
 	
+	public ItemSynthesis(String itemname, String itemdata, int stacksize)
+	{
+		this(itemname, itemdata, "item", stacksize, false, BellCraft.tab);
+	}
+	
 	public ItemSynthesis(String itemname, String itemdata)
 	{
 		this(itemname, itemdata, "item", 64, false, BellCraft.tab);
